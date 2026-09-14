@@ -1,0 +1,5 @@
+/home/andrei/Documents/GitHub/Introduction-to-Rust-Week-5/ex2/target/debug/deps/async_stream_impl-89547fafa63d2c7a.d: /home/andrei/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-stream-impl-0.3.6/src/lib.rs
+
+/home/andrei/Documents/GitHub/Introduction-to-Rust-Week-5/ex2/target/debug/deps/libasync_stream_impl-89547fafa63d2c7a.so: /home/andrei/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-stream-impl-0.3.6/src/lib.rs
+
+/home/andrei/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-stream-impl-0.3.6/src/lib.rs:
