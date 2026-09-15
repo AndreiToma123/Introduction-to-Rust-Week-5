@@ -1,0 +1,5 @@
+/home/andrei/Documents/GitHub/Introduction-to-Rust-Week-5/ex4/target/debug/deps/smallvec-a2c1917b8760951e.d: /home/andrei/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smallvec-1.16.1/src/lib.rs
+
+/home/andrei/Documents/GitHub/Introduction-to-Rust-Week-5/ex4/target/debug/deps/libsmallvec-a2c1917b8760951e.rmeta: /home/andrei/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smallvec-1.16.1/src/lib.rs
+
+/home/andrei/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smallvec-1.16.1/src/lib.rs:
