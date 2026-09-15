@@ -2,7 +2,6 @@
 extern crate rocket;
 use rocket::form::{Form, FromForm};
 use rocket::response::content::RawHtml;
-use rocket::tokio::fs::remove_dir;
 use std::fs::File;
 use std::io::Read;
 use std::path::Path;
@@ -48,12 +47,19 @@ fn get_message() -> RawHtml<String> {
 #[get("/")]
 fn form_page() -> RawHtml<&'static str> {
     let render_page: &str = r#"
-
-    <form action="/message" method="post">
-        <label for="content">Post something</label>
-        <input type="text" id="content" name="content">
-        <input type="submit" value="Submit answer">
-    </form>
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>Ch5 Pt5</title>
+    </head>
+    <body>
+        <form action="/message" method="post">
+            <label for="content">Post something</label>
+            <input type="text" id="content" name="content">
+            <input type="submit" value="Submit answer">
+        </form>
+    </body>
+    </html>
     "#;
 
     RawHtml(render_page)
