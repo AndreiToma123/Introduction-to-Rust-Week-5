@@ -1,0 +1,12 @@
+/home/andrei/Documents/GitHub/Introduction-to-Rust-Week-5/ex3/target/debug/deps/state-920588f908d0bcec.d: /home/andrei/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/lib.rs /home/andrei/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/ident_hash.rs /home/andrei/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/cell.rs /home/andrei/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/init.rs /home/andrei/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/shim.rs /home/andrei/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/type_map.rs
+
+/home/andrei/Documents/GitHub/Introduction-to-Rust-Week-5/ex3/target/debug/deps/libstate-920588f908d0bcec.rlib: /home/andrei/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/lib.rs /home/andrei/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/ident_hash.rs /home/andrei/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/cell.rs /home/andrei/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/init.rs /home/andrei/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/shim.rs /home/andrei/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/type_map.rs
+
+/home/andrei/Documents/GitHub/Introduction-to-Rust-Week-5/ex3/target/debug/deps/libstate-920588f908d0bcec.rmeta: /home/andrei/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/lib.rs /home/andrei/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/ident_hash.rs /home/andrei/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/cell.rs /home/andrei/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/init.rs /home/andrei/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/shim.rs /home/andrei/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/type_map.rs
+
+/home/andrei/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/lib.rs:
+/home/andrei/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/ident_hash.rs:
+/home/andrei/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/cell.rs:
+/home/andrei/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/init.rs:
+/home/andrei/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/shim.rs:
+/home/andrei/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/state-0.6.0/src/type_map.rs:
